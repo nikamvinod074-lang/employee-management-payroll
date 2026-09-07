@@ -1,0 +1,14 @@
+# ---------------------------------------------------------------------------
+# Pinned for Python 3.14 compatibility (Windows + Linux + macOS).
+# Every package below has an official Python 3.14 wheel/release as of this
+# update - see README.md "Python 3.14 upgrade notes" for the verification
+# sources and reasoning behind each version bump.
+# ---------------------------------------------------------------------------
+Django==5.2.17
+djangorestframework==3.17.2
+djangorestframework-simplejwt==5.5.1
+django-cors-headers==4.9.0
+django-filter==25.2
+mysqlclient==2.2.8
+python-dotenv==1.2.3
+Pillow==12.3.0
